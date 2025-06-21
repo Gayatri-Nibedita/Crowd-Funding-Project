@@ -49,6 +49,7 @@ npx hardhat compile
 npx hardhat node
 ```
 ### 4. For running script
+```
 npx hardhat run scripts/deploy-crowdToken.js --network sepolia
 ```
 npx hardhat run scripts/createProject.js --network sepolia
