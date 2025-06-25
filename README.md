@@ -1,6 +1,6 @@
 # Crowdfunding Smart Contract Project
 
-This repository contains the modified smart contract files and code implementations for the assigned tasks under the Nullclass Internship Program.
+This repository contains the modified smart contract files and code implementations.
 
 ## Project Overview
 
