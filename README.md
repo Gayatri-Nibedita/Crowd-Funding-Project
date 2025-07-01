@@ -54,11 +54,11 @@ npx hardhat run scripts/deploy-crowdToken.js --network sepolia
 ```
 npx hardhat run scripts/createProject.js --network sepolia
 ```
-## Notes
+##  Deployment Tools Used
 
-- All code is original and written from scratch to avoid plagiarism.
-- GitHub submission link contains the complete working project.
-- Tasks were implemented in compliance with Nullclass's internship requirements.
+- *Remix IDE* – For quick prototyping and contract deployment.
+- *MetaMask* – Used for managing Ethereum wallets and interacting with deployed smart contracts.
+- *Sepolia Test Network* – For deploying and testing smart contracts.
 
 ---
 ## Important Links:
